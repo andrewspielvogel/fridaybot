@@ -11,3 +11,7 @@ https://hobbyking.com/media/file/73530954X1785910X23.pdf
 
 Download and unzip kkMulticopter Flash Tool:
 http://lazyzero.de/en/modellbau/kkmulticopterflashtool
+
+
+username: pi
+password: fridaybot
