@@ -15,3 +15,8 @@ http://lazyzero.de/en/modellbau/kkmulticopterflashtool
 
 username: pi
 password: fridaybot
+
+
+https://github.com/sim-/tgy
+https://github.com/sim-/tgy/issues/64
+https://www.rcgroups.com/forums/showthread.php?2032252-AfroESC-firmware-for-RPM-Vbat-temperature-feedback
